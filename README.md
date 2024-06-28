@@ -1,0 +1,2 @@
+# LBP
+Linux Battery Protector
